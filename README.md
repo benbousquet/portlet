@@ -7,10 +7,10 @@ VPN Gate client for MacOS / Linux
 There is not official GUI client for connecting with MacOS or Linux
 
 ## Roadmap features
-- [] VPN Connection management (connect, disconnect, save)
-- [] Status bar management
-- [] Improve UI
-- [] Readme file
+- [ ] VPN Connection management (connect, disconnect, save)
+- [ ] Status bar management
+- [ ] Improve UI
+- [ ] Readme file
 
 ## Development Setup
 - Clone repo
